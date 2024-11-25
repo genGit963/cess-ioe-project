@@ -110,14 +110,20 @@ function Navbar() {
                     fontFamily={"Poppins"}
                   >
                     <p
-                      // style={{
-                      //   color:
-                      //     String(location.pathname) ===
-                      //     `/${page === "Home" ? "" : page.toLocaleLowerCase()}`
-                      //       ? "red"
-                      //       : "black",
-                      // }}
-                      style={{ color: "green", fontWeight: "bold" }}
+                      style={
+                        String(location.pathname) ===
+                        `/${page === "Home" ? "" : page.toLocaleLowerCase()}`
+                          ? {
+                              color: "#0d47ed",
+                              fontWeight: "600",
+                              textDecoration: "underline",
+                              textUnderlineOffset: 4,
+                            }
+                          : {
+                              color: "black",
+                              textDecoration: "none",
+                            }
+                      }
                     >
                       {page}
                     </p>
@@ -166,7 +172,24 @@ function Navbar() {
                 }}
                 fontFamily={"Poppins"}
               >
-                {page}
+                <p
+                  style={
+                    String(location.pathname) ===
+                    `/${page === "Home" ? "" : page.toLocaleLowerCase()}`
+                      ? {
+                          color: "#0d47ed",
+                          fontWeight: "600",
+                          textDecoration: "underline",
+                          textUnderlineOffset: 4,
+                        }
+                      : {
+                          color: "black",
+                          textDecoration: "none",
+                        }
+                  }
+                >
+                  {page}
+                </p>
               </Link>
             ))}
           </Box>
