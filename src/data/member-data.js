@@ -1,0 +1,178 @@
+export const committee18th = [
+  {
+    sn: 0,
+    name: "Neerajan Basnet",
+    pic: require("../assets/Member19/President Neerajan Basnet.jpg"),
+    post: "President",
+    batch: "076BCE",
+    profile_links: {
+      facebook: "https://www.facebook.com/neerazan.basnet.3",
+      instagram: "https://www.instagram.com/neerazan11/",
+    },
+  },
+  {
+    sn: 1,
+    name: "Manisha Raya",
+    pic: require("../assets/Member19/Vice President Manisha Raya.jpg"),
+    post: "Vice-President",
+    batch: "077BCE",
+    profile_links: {
+      facebook: "https://www.facebook.com/Manisharaya009",
+      instagram: "https://www.instagram.com/manisharaya43/",
+    },
+  },
+  {
+    sn: 2,
+    name: "Supreme Thapa",
+    pic: require("../assets/Member19/Secratary Supreme Thapa.jpeg"),
+    post: "Secretary",
+    batch: "077BCE",
+    profile_links: {
+      facebook: "https://www.facebook.com/profile.php?id=100088580528283",
+      instagram: "https://www.instagram.com/thaapaasuprim/",
+    },
+  },
+  {
+    sn: 3,
+    name: "Sharthak Raj Paudyal",
+    pic: require("../assets/Member19/TreasurerSharthak Raj Paudyal.jpeg"),
+    post: "Treasurer",
+    batch: "076BCE",
+    profile_links: {
+      facebook: "https://www.facebook.com/sharthakraj.paudyal",
+      instagram: "https://www.instagram.com/sharthak_raj_paudyal/",
+    },
+  },
+  {
+    sn: 4,
+    name: "Kamala G.C",
+    pic: require("../assets/Member19/Vice Secratary Kamala G.C..jpg"),
+    post: "Vice-Secretary",
+    batch: "078BCE",
+    profile_links: {
+      facebook: "https://www.facebook.com/niruta.gc.98",
+      instagram: "https://www.instagram.com/niruta_gc/",
+    },
+  },
+  {
+    sn: 5,
+    name: "Prajwal Kafle",
+    pic: require("../assets/Member19/Vice Secretary Prajwal Kafle.jpg"),
+    post: "Vice-Secretary",
+    batch: "078BCE",
+    profile_links: {
+      facebook: "https://www.facebook.com/profile.php?id=100011089476217",
+      instagram: "",
+    },
+  },
+  {
+    sn: 6,
+    name: "Umesh Kumar Gautam",
+    pic: require("../assets/Member19/Member Umesh Kumar Gautam.jpg"),
+    post: "Member",
+    batch: "077BCE",
+    profile_links: {
+      facebook: "https://www.facebook.com/gautam.umesh.18",
+      instagram: "https://www.instagram.com/umes.hgautam/",
+    },
+  },
+  {
+    sn: 7,
+    name: "Santosh Adhikari",
+    pic: require("../assets/Member19/Member  Santosh Yadav.jpg"),
+    post: "Member",
+    batch: "078BCE",
+    profile_links: {
+      facebook: "https://www.facebook.com/profile.php?id=100007277085232",
+      instagram: "https://www.instagram.com/santosh_adhikari01/",
+    },
+  },
+  {
+    sn: 8,
+    name: "Avinash Rai",
+    pic: require("../assets/Member19/Member Avinash Rai.jpg"),
+    post: "Member",
+    batch: "078BCE",
+    profile_links: {
+      facebook: "https://www.facebook.com/profile.php?id=100042794073888",
+      instagram: "https://www.instagram.com/aviiii_n_ashhhh/",
+    },
+  },
+  {
+    sn: 9,
+    name: "Dakendra Baduwal",
+    pic: require("../assets/Member19/Member Dakendra Baduwal.jpg"),
+    post: "Member",
+    batch: "079BCE",
+    profile_links: {
+      facebook: "https://www.facebook.com/dikendra.baduwal.10",
+      instagram: "",
+    },
+  },
+  {
+    sn: 12,
+    name: "Kiran Awasthi",
+    pic: require("../assets/Member19/Member Kiran Awasthi.jpeg"),
+    post: "Member",
+    batch: "079BCE",
+    profile_links: {
+      facebook: "https://www.facebook.com/ro.nit.9693",
+      instagram: "https://www.instagram.com/kiranawasthi0/",
+    },
+  },
+  {
+    sn: 13,
+    name: "Rachana Kafle",
+    pic: require("../assets/Member19/Member   Rachana Kafle.jpg"),
+    post: "Member",
+    batch: "079BCE",
+    profile_links: {
+      facebook: "https://www.facebook.com/osprey.sailesh",
+      instagram: "https://www.instagram.com/rachanakafle01/",
+    },
+  },
+  {
+    sn: 14,
+    name: "Sarun Guragain",
+    pic: require("../assets/Member19/Member-Sarun Guragain.jpg"),
+    post: "Member",
+    batch: "079BCE",
+    profile_links: {
+      facebook: "https://www.facebook.com/sarun.guragain",
+      instagram: "https://www.instagram.com/sarunguragain/",
+    },
+  },
+  {
+    sn: 15,
+    name: "Jayant Dhami",
+    pic: require("../assets/Member19/Member  Jayant Dhami.jpg"),
+    post: "Member",
+    batch: "079BCE",
+    profile_links: {
+      facebook: "https://www.facebook.com/dikendra.baduwal.10",
+      instagram: "",
+    },
+  },
+  {
+    sn: 16,
+    name: "Nigam Raut",
+    pic: require("../assets/Member19/Facilitator    Nigam Raut.jpeg"),
+    post: "Facilitator",
+    batch: "076BCE",
+    profile_links: {
+      facebook: "https://www.facebook.com/thenigamraut",
+      instagram: "https://www.instagram.com/thenigamraut/",
+    },
+  },
+  {
+    sn: 17,
+    name: "Riwaj Basnet",
+    pic: require("../assets/Member19/Facilitator  Riwaj Basnet.jpg"),
+    post: "Facilitator",
+    batch: "077BCE",
+    profile_links: {
+      facebook: "https://www.facebook.com/riwajjung.basnet",
+      instagram: "https://www.instagram.com/riwaj.basnet/",
+    },
+  },
+];
