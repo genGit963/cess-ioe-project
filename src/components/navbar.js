@@ -106,7 +106,11 @@ function Navbar() {
                     to={`/${page === "Home" ? "" : page.toLocaleLowerCase()}`}
                     variant="body2"
                     component={RouterLink}
-                    style={{ color: "green", fontWeight: "bolder" }}
+                    style={{
+                      color: "green",
+                      fontWeight: "bolder",
+                      textDecoration: "none",
+                    }}
                     fontFamily={"Poppins"}
                   >
                     <p
